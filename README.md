@@ -23,7 +23,7 @@ FitLog is a modern workout library and planning web app built with **Next.js**. 
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **Ant Design**
+- **Daisy UI**
 - **Lucide React**
 - **REST API**
 - **LocalStorage**

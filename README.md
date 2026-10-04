@@ -50,7 +50,7 @@ Open **http://localhost:3000** in your browser.
 
 Deployed with **Vercel**.
 
-**Live Demo:** [https://fit-log-one-theta.vercel.app/]
+**Live Demo:** https://fit-log-one-theta.vercel.app/
 
 ---
 
